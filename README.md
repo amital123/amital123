@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @amital123
+- 
 -👀 I’m interested in PLC, HMI & SCADA all in one free application
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on those subjects
